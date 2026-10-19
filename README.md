@@ -92,11 +92,11 @@ Expense-Tracker-App/
 Download this repository as a ZIP from GitHub and extract it, or clone it:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/expense-tracker-data-science.git
+git clone https://github.com/mohitpimpalkar27-ctrl/expense-tracker-data-science
 cd expense-tracker-data-science
 ```
 
-Replace `YOUR_USERNAME` with your actual GitHub username once the repository exists.
+
 
 ### 2. Create a virtual environment
 
@@ -242,9 +242,9 @@ In the simulated December report, shopping is materially over its illustrative b
 **Mohit Pimpalkar**  
 Computer Engineering Student | Data Analytics & Python Projects
 
-- **GitHub:** Add your GitHub profile URL here.
-- **LinkedIn:** Add your LinkedIn profile URL here.
-- **Demo video:** Add your demo video URL after recording.
+- **GitHub:**  https://github.com/mohitpimpalkar27-ctrl
+- **LinkedIn:** https://www.linkedin.com/in/mohit-pimpalkar/?isSelfProfile=true
+- **Demo video:** https://youtu.be/3rvugMOy7eU?si=bQOJvgQ4jPFJ9hzx
 
 ## 📄 License
 
