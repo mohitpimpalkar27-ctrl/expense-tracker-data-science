@@ -246,10 +246,4 @@ Computer Engineering Student | Data Analytics & Python Projects
 - **LinkedIn:** https://www.linkedin.com/in/mohit-pimpalkar/?isSelfProfile=true
 - **Demo video:** https://youtu.be/3rvugMOy7eU?si=bQOJvgQ4jPFJ9hzx
 
-## 📄 License
 
-No license has been added yet. If you want to permit reuse, choose and add an appropriate license (for example, MIT) before publishing.
-
----
-
-**Portfolio note:** This repository demonstrates reproducible data simulation, analytical engineering, explainable financial KPIs, a working local application, and transparent limitations—not real financial performance or investment advice.
