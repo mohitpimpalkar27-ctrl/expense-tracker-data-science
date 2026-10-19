@@ -1,0 +1,6 @@
+payment_method,transaction_count,total_amount
+UPI,1113,656585.33
+Cash,305,169056.84
+Debit Card,287,162777.66
+Credit Card,210,112170.27
+Net Banking,85,151888.89

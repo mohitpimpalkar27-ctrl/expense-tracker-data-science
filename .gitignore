@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+*.db
+*.sqlite3
+data/private/
+outputs/private/
+.DS_Store
+Thumbs.db
